@@ -998,23 +998,23 @@ Absolutely.
 
 210
 00:16:05,974 --> 00:16:10,774
-Après déjeuner, il était temps que
-je me misse à l’ouvrage. J’allâme voir Dino.
+After lunch it was time
+to have some work done. J’allâme voir Dino. FIXME
 
 211
 00:16:15,224 --> 00:16:20,624
-Dino, mon pauvre ami.
-Ça n’a pas l’air d’aller bien fort.
+Dino, my poor friend
+You don't look too well.
 
 212
 00:16:23,174 --> 00:16:26,374
-Pourquoi vous vous êtes mis
-dans cet état déplorable ?
+Why did you put yourself
+In this pitiful condition ?
 
 213
 00:16:26,624 --> 00:16:29,024
-Vous qui écrivez
-de si belles lettres !
+You who wrote
+such beautiful letters !
 
 214
 00:16:29,874 --> 00:16:34,874
