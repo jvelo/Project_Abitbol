@@ -6,6 +6,6 @@ Work in progress.
 
 ## Contributors
 
-Jérôme Velociter ([@jvelo](http://github.com/jvelo))
-Vincent Velociter ([@veloce](http://github.com/veloce))
-Thibault Duplessis ([@ornicar](http://github.com/ornicar))
+- Jérôme Velociter ([@jvelo](http://github.com/jvelo))
+- Vincent Velociter ([@veloce](http://github.com/veloce))
+- Thibault Duplessis ([@ornicar](http://github.com/ornicar))
